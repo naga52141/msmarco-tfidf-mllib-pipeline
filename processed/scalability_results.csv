@@ -1,0 +1,5 @@
+mode,shuffle_partitions,max_queries,train_rows,train_time_s,auc
+scalability,4,5000,8277,12.6506,0.997871
+scalability,4,10000,16549,5.9711,0.999284
+scalability,8,5000,8277,4.6001,0.997871
+scalability,8,10000,16549,6.2153,0.999284
